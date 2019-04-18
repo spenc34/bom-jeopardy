@@ -1,0 +1,16 @@
+.Score {
+    font-family: 'Oswald', sans-serif;
+    color: aliceblue;
+    text-emphasis: bold;
+    font-size: 40px;
+    padding: 10px;
+    height: 100%;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+}
+
+#negative-score {
+    color: red;
+}

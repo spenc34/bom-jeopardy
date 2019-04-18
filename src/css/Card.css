@@ -1,0 +1,90 @@
+.Card {
+    background-color: #001064;
+    font-family: 'Oswald', sans-serif;
+    color: aliceblue;
+    text-emphasis: bold;
+    font-size: 28px;
+    padding: 5px;
+    height: 100%;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+    text-shadow: 3px 3px 3px black;
+}
+
+.Card.clue {
+    color: #ffca28;
+    cursor: pointer;
+    font-size: 36px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.Card.empty {
+    color: #001064;
+    font-size: 36px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.Card.display-clue {
+    font-size: 3em;
+    font-family: 'Bitter', serif;
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 100px;
+}
+
+.Card.display-clue.wager {
+    font-size: 2em;
+    font-style: italic;
+}
+
+.Card.clue:hover {
+    border: 2px solid #ffca28;
+    margin:-2px;
+}
+
+.Card.title {
+    padding-top: 40px;
+    font-size: 3.5em;
+}
+
+.col {
+    padding: 5px;
+}
+
+.my-row {
+    display: -ms-flex;
+	display: -webkit-flex;
+    display: flex;
+}
+
+.my-col {
+    flex: 1;
+    margin: 5px;
+}
+
+.input-group.input-group-lg {
+    margin-top: 50px;
+}
+
+.answer-response {
+    margin: 30px;
+    font-family: 'Oswald', sans-serif;
+    text-shadow: none;
+}
+
+#incorrect-span {
+    color: red;
+}
+
+.hidden-text {
+    visibility: hidden;
+}
+
+.invisible {
+    display: none;
+}

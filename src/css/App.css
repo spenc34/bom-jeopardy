@@ -1,0 +1,21 @@
+.GameBoard {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.GameBoard.invisible {
+  visibility: hidden;
+}
+
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.vertical-center.clue-display {
+  background-color: #001064;
+}

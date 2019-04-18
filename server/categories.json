@@ -1,0 +1,478 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Women in the Book of Mormon",
+            "clues": [
+                {
+                    "difficulty": 1,
+                    "clue": "Before going into battle, Helaman's stripling warriors rehearsed the words of these people, saying \"We do not doubt that\" they \"knew it\"",
+                    "solutions": [
+                        "their mothers", 
+                        "mothers"
+                    ]
+                },
+                {
+                    "difficulty": 2,
+                    "clue": "She proclaimed, \"Now I know of a surety that the Lord hath commanded my husband to flee into the wilderness; yea, and I also know of a surety that the Lord hath protected my sons\"",
+                    "solutions": [
+                        "Sariah"
+                    ]
+                },
+                {
+                    "difficulty": 3,
+                    "clue": "Alma reprimanded his son Corianton for going after her",
+                    "solutions": [ 
+                        "Isabel",
+                        "The harlot Isabel",
+                        "Isabel the harlot"
+                    ]
+                },
+                {
+                    "difficulty": 4,
+                    "clue": "The Book of Mormon tells us that she had been converted to the Lord for many years \"on account of a remarkable vision of her father\"",
+                    "solutions": [ 
+                        "Abish"
+                    ]
+                },
+                {
+                    "difficulty": 5,
+                    "clue": "In one of the chapters quoted by Nephi, Isaiah pleads with Israel to look unto her,\"she that bare you\"",
+                    "solutions": [
+                        "Sarah"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Wo, Wo, Wo",
+            "clues": [
+                {
+                    "difficulty": 1,
+                    "clue": "In a vision to Lehi, the Lord declared: “Wo, wo, unto” this city, “for I have seen thine abominations!”",
+                    "solutions": [ 
+                        "Jerusalem"
+                    ]
+                },
+                {
+                    "difficulty": 2,
+                    "clue": "Jacob declared wo unto this type of sinner, “for he shall be thrust down to hell”",
+                    "solutions": [
+                        "the liar",
+                        "liar",
+                        "liars"
+                    ]
+                },
+                {
+                    "difficulty": 3,
+                    "clue": "Helaman informed his sons that if they build their foundations upon Christ, the devil would not be able to drag them down to this geographical feature “of misery and endless wo”",
+                    "solutions": [ 
+                        "gulf",
+                        "the gulf",
+                        "a gulf"
+                    ]
+                },
+                {
+                    "difficulty": 4,
+                    "clue": "Speaking to members of the church in the last days, Nephi pronounced wo unto him that crieth “All is ___!”",
+                    "solutions": [ 
+                        "well"
+                    ]
+                },
+                {
+                    "difficulty": 5,
+                    "clue": "Quoted in 2 Nephi 15, Isaiah cries “Wo unto them that rise up early in the morning, that they may follow” this scriptural term for alcohol",
+                    "solutions": [
+                        "strong drink"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Name the Book",
+            "clues": [
+                {
+                    "difficulty": 1,
+                    "clue": "\"Hosanna! Blessed be the name of the Most High God! And they did fall down at the feet of Jesus, and did worship him\"",
+                    "solutions": [
+                        "3 Nephi",
+                        "3rd Nephi",
+                        "Third Nephi"
+                    ]
+                },
+                {
+                    "difficulty": 2,
+                    "clue": "\"A Bible! A Bible! We have got a Bible, and there cannot be any more Bible.\"",
+                    "solutions": [
+                        "2 Nephi",
+                        "2nd Nephi",
+                        "Second Nephi"
+                    ]
+                },
+                {
+                    "difficulty": 3,
+                    "clue": "\"And now, I, Moroni, would speak somewhat concerning these things; I would show unto the world that faith is things which are hoped for and not seen; wherefore, dispute not because ye see not, for ye receive no witness until after the trial of your faith.\"",
+                    "solutions": [
+                        "Ether",
+                        "Book of Ether",
+                        "The Book of Ether"
+                    ]
+                },
+                {
+                    "difficulty": 4,
+                    "clue": "\"And Nephi and Lehi were in the midst of them; yea, they were encircled about; yea, they were as if in the midst of a flaming fire, yet it did harm them not, neither did it take hold upon the walls of the prison; and they were filled with that joy which is unspeakable and full of glory.\"",
+                    "solutions": [
+                        "Helaman",
+                        "Book of Helaman",
+                        "The Book of Helaman"
+                    ]
+                },
+                {
+                    "difficulty": 5,
+                    "clue": "\"O ye fair ones, how could ye have departed from the ways of the Lord! O ye fair ones, how could ye have rejected that Jesus, who stood with open arms to receive you!\"",
+                    "solutions": [
+                        "Mormon",
+                        "Book of Mormon",
+                        "The Book of Mormon"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Which prophet said it?",
+            "clues": [
+                {
+                    "difficulty": 1,
+                    "clue": "\"I glory in plainness; I glory in truth; I glory in my Jesus, for he hath redeemed my soul from hell\"",
+                    "solutions": [
+                        "Nephi"
+                    ]
+                },
+                {
+                    "difficulty": 2,
+                    "clue": "\"Ye have sought all the days of your lives for that which ye could not obtain; and ye have sought for happiness in doing iniquity, which thing is contrary to the nature of that righteousness which is in our great and Eternal Head\"",
+                    "solutions": [
+                        "Samuel the Lamanite",
+                        "Samuel"
+                    ]
+                },
+                {
+                    "difficulty": 3,
+                    "clue": "\"Behold, I say unto you, that I do know that Christ shall come among the children of men, to take upon him the transgressions of his people, and that he shall atone for the sins of the world; for the Lord God hath spoken it\"",
+                    "solutions": [
+                        "Amulek"
+                    ]
+                },
+                {
+                    "difficulty": 4,
+                    "clue": "\"Come, my brethren, every one that thirsteth, come ye to the waters; and he that hath no money, come buy and eat; yea, come buy wine and milk without money and without price.\"",
+                    "solutions": [
+                        "Jacob"
+                    ]
+                },
+                {
+                    "difficulty": 5,
+                    "clue": "\"He is the light and the life of the world; yea, a light that is endless, that can never be darkened; yea, and also a life which is endless, that there can be no more death.\"",
+                    "solutions": [
+                        "Abinadi"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Book of Mormon Translation",
+            "clues": [
+                {
+                    "difficulty": 1,
+                    "clue": "He was the scribe primarily responsible for the loss of the 116 pages",
+                    "solutions": [
+                        "Martin Harris",
+                        "Martin",
+                        "Harris"
+                    ]
+                },
+                {
+                    "difficulty": 2,
+                    "clue": "W. W. Phelps was probably the first to apply this Biblical term to Joseph Smith’s interpreters, from the Hebrew for “lights” and “perfections”",
+                    "solutions": [
+                        "Urim and Thummim",
+                        "the Urim and Thummim",
+                        "Urim & Thummim",
+                        "Urim and Thumim"
+                    ]
+                },
+                {
+                    "difficulty": 3,
+                    "clue": "Joseph did most of the Book of Mormon translation using a brown \"seer stone\", which he placed into this",
+                    "solutions": [
+                        "a white hat",
+                        "hat",
+                        "a hat",
+                        "white hat",
+                        "his hat",
+                        "his white hat"
+                    ]
+                },
+                {
+                    "difficulty": 4,
+                    "clue": "This person was the first to act as Joseph’s scribe during Book of Mormon translation",
+                    "solutions": [
+                        "Emma Smith",
+                        "Emma",
+                        "Emma Hale",
+                        "Emma Hale Smith"
+                    ]
+                },
+                {
+                    "difficulty": 5,
+                    "clue": "This book was the last to be translated from the golden plates",
+                    "solutions": [
+                        "Words of Mormon",
+                        "the Words of Mormon"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Old World Prophets in the Book of Mormon",
+            "clues": [
+                {
+                    "difficulty": 1,
+                    "clue": "In the Book of Mormon, he is quoted more than any other Old Testament prophet",
+                    "solutions": [
+                        "Isaiah"
+                    ]
+                },
+                {
+                    "difficulty": 2,
+                    "clue": "This Old Testament prophet contemporary of Lehi and also preached of the destruction of Jerusalem; in 1 Nephi 7, Nephi mentions that he had been cast into prison",
+                    "solutions": [
+                        "Jeremiah"
+                    ]
+                },
+                {
+                    "difficulty": 3,
+                    "clue": "In his visit to the Americas, Christ quoted the writings of this prophet, whose book comes last in the modern Old Testament",
+                    "solutions": [
+                        "Malachi"
+                    ]
+                },
+                {
+                    "difficulty": 4,
+                    "clue": "When teaching about high priests, Alma mentions this Old Testament high priest and king of Salem, to whom Abraham paid tithes",
+                    "solutions": [
+                        "Melchizedek"
+                    ]
+                },
+                {
+                    "difficulty": 5,
+                    "clue": "Though never mentioned in the Old Testament, this prophet is quoted often in the Book of Mormon, such as in the allegory of the olive tree in Jacob 5",
+                    "solutions": [
+                        "Zenos"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "The Church in Book of Mormon Times",
+            "clues": [
+                {
+                    "difficulty": 1,
+                    "clue": "Moroni informs us that church meetings were conducted “after the manner of the workings of” this member of the Godhead",
+                    "solutions": [
+                        "The Spirit",
+                        "The Holy Ghost",
+                        "Spirit",
+                        "Holy Ghost",
+                        "the Spirit of the Lord",
+                        "the Spirit of God"
+                    ]
+                },
+                {
+                    "difficulty": 2,
+                    "clue": "In 3 Nephi 27, Jesus taught the people that in order for the church truly to be His, it must be called after this",
+                    "solutions": [
+                        "His name",
+                        "name",
+                        "the name of Christ",
+                        "name of Christ",
+                        "name of Jesus Christ",
+                        "the name of Jesus Christ"
+                    ]
+                },
+                {
+                    "difficulty": 3,
+                    "clue": "This office was the head of the church in Book of Mormon times",
+                    "solutions": [
+                        "high priest",
+                        "the high priest"
+                    ]
+                },
+                {
+                    "difficulty": 4,
+                    "clue": "He was the prophet who founded the church among the people of king Noah",
+                    "solutions": [
+                        "Alma the elder",
+                        "Alma"
+                    ]
+                },
+                {
+                    "difficulty": 5,
+                    "clue": "When people were baptized into the church in the Book of Mormon, their names were taken and recorded; if they were excommunicated, their names were “____ out”",
+                    "solutions": [
+                        "blotted"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Visions",
+            "clues": [
+                {
+                    "difficulty": 1,
+                    "clue": "The mockers in the vision of the Tree of Life seen by Nephi and Lehi were all gathered here",
+                    "solutions": [
+                        "the great and spacious building",
+                        "a great and spacious building",
+                        "great and spacious building",
+                        "building"
+                    ]
+                },
+                {
+                    "difficulty": 2,
+                    "clue": "Before seeing the entire personage of the premortal Christ, the Brother of Jared first saw only this part of His spirit body",
+                    "solutions": [
+                       "His finger",
+                       "finger",
+                       "a finger"
+                    ]
+                },
+                {
+                    "difficulty": 3,
+                    "clue": "When the angel Moroni visited the boy Joseph Smith to tell him of the gold plates, Joseph Saw in vision the place where the plates were deposited in this hill",
+                    "solutions": [
+                        "Cumorah",
+                        "hill Cumorah",
+                        "the hill Cumorah"
+                    ]
+                },
+                {
+                    "difficulty": 4,
+                    "clue": "In Lehi’s first recorded vision in the Book of Mormon, this appeared and “dwelt upon a rock”, causing Lehi to tremble and shake exceedingly",
+                    "solutions": [
+                        "A pillar of fire",
+                        "pillar of fire"
+                    ]
+                },
+                {
+                    "difficulty": 5,
+                    "clue": "In one of the Isaiah chapters quoted by Nephi, Isaiah sees the Lord surrounded by these kinds of angels, each of which had six wings",
+                    "solutions": [
+                        "seraphim"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Apostates",
+            "clues": [
+                {
+                    "difficulty": 1,
+                    "clue": "This breakaway group from the Nephites worshipped God by each standing atop a “Rameumptom” and offering the same prayer once a week",
+                    "solutions": [
+                        "Zoramites",
+                        "the Zoramites"
+                    ]
+                },
+                {
+                    "difficulty": 2,
+                    "clue": "He debated with Alma over the existence of God. After demanding a sign, he was struck dumb, and was eventually trampled to death while begging for food",
+                    "solutions": [
+                       "Korihor"
+                    ]
+                },
+                {
+                    "difficulty": 3,
+                    "clue": "This church leader testified boldy to Sherem, one of the first antichrists mentioned in the Book of Mormon, about the need for a Savior and an atonement",
+                    "solutions": [
+                       "Jacob"
+                    ]
+                },
+                {
+                    "difficulty": 4,
+                    "clue": "After establishing his apostate religion, this large man was executed for slaying Gideon with his sword",
+                    "solutions": [
+                        "Nehor"
+                    ]
+                },
+                {
+                    "difficulty": 5,
+                    "clue": "This apostate group marked their foreheads with red “after the manner of the Lamanites” when they went to battle against the Nephites",
+                    "solutions": [
+                        "Amlicites",
+                        "the Amlicites",
+                        "people of Amlici",
+                        "the people of Amlici"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Book of Mormon Weaponry",
+            "clues": [
+                {
+                    "difficulty": 1,
+                    "clue": "Before cutting off the arms of his Lamanite attackers, Ammon killed six of them from a distance using this weapon",
+                    "solutions": [
+                        "sling",
+                        "the sling",
+                        "a sling"
+                    ]
+                },
+                {
+                    "difficulty": 2,
+                    "clue": "Nephi notes in his account the fine workmanship of Laban’s sword - its hilt was made of pure gold, and its blade was this “most precious” metal",
+                    "solutions": [
+                       "steel"
+                    ]
+                },
+                {
+                    "difficulty": 3,
+                    "clue": "Some archeologists believe that these weapons (mentioned frequently in the Book of Mormon) were actually Mesoamerican “macuahuitl” - long, wooden clubs edged with obsidian that could sever limbs",
+                    "solutions": [
+                       "swords",
+                       "sword"
+                    ]
+                },
+                {
+                    "difficulty": 4,
+                    "clue": "The Book of Mormon mentions several times the use of this type of curved blade of Middle Eastern origin in battle",
+                    "solutions": [
+                        "cimiter",
+                        "scimitar",
+                        "scimiter",
+                        "simiter"
+                    ]
+                },
+                {
+                    "difficulty": 5,
+                    "clue": "This weapon is the second most frequently mentioned in the Book of Mormon, after the sword",
+                    "solutions": [
+                       "the bow",
+                       "bow",
+                       "bow and arrow"
+                    ]
+                }
+            ]
+        }
+    ]
+}
